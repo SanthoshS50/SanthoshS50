@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santhosh Srinivasan</h1>
+<h1 align="center">Hi 👋 I'm Santhosh Srinivasan</h1>
 <h3 align="center">Full Stack Developer • MERN Stack • ServiceNow</h3>
 
 <p align="center">
@@ -17,12 +17,11 @@
 
 ## 👨‍💻 Who Am I?
 
-I’m a **Full Stack Developer** from **Tamil Nadu, India**, currently working as an  
-**Associate Software Engineer**, building scalable web applications using the **MERN Stack**  
-and contributing to enterprise workflows using **ServiceNow**.
+I am a **Full Stack Developer** based in **Tamil Nadu, India**, currently working as an **Associate Software Engineer**.
 
-I enjoy turning complex requirements into clean, maintainable solutions and continuously
-improving my engineering depth.
+My experience includes building full-stack applications using the **MERN Stack** and working with **ServiceNow** to design, configure, and support enterprise workflows, automation, and data-driven processes. I collaborate closely with stakeholders to translate functional requirements into scalable technical implementations.
+
+I am focused on developing **robust, maintainable systems** and continuously improving my skills in both modern web development and enterprise platform engineering.
 
 ---
 
